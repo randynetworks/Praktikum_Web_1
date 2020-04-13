@@ -5,3 +5,6 @@ Source Code Matakuliah Praktikum Web 1 (Design)
  - Mempelajari Heading tag
  - Symbol
  - Formating
+
+ ### PErtemuan 2
+ - Membuat website sederhana mengenai kegiatan COVID19
